@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+
+    <string name="network_connection_error">Internet connection unavailable</string>
+
+    <string name="degree">\u00B0</string>
+</resources>
